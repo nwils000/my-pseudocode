@@ -1,10 +1,15 @@
 # Performing a Backflip
 
-- Find a safe area (flat and padded like grass, mattress, or trampoline).
-- Inspect the area for obstacles or hazards.
+- Preperation
+  - Find a safe area (flat and padded like grass, mattress, or trampoline).
+  - Inspect the area for obstacles or hazards.
+  - IF obstacles === true:
+    - Clear the obstacles.
 
 - Positioning:
-  - Go to the middle of the area, stand straight, look forward.
+  - Go to the middle of the area.
+  - Stand straight .
+  - Look forward.
 
 - Pre-jump:
   - Bend knees to 45 degrees.
@@ -15,6 +20,7 @@
     - Flex calves fully.
 
 - IF not airborne, strength training may be needed.
+  - EXIT activity.
 
 - WHILE airborne:
   - IF <80% rotated:
@@ -27,5 +33,9 @@
 - Landing:
   - Upon ground contact, extend knees to absorb impact.
   - Use arms for balance upon landing to prevent falls.
+  - IF landed:
+    - Complete activity.
+  - ELSE:
+    - Go back to first instruction.
 
 
