@@ -3,12 +3,12 @@
 - Preperation
   - Find a safe area (flat and padded like grass, mattress, or trampoline).
   - Inspect the area for obstacles or hazards.
-  - IF obstacles === true:
+  - IF there are obstacles:
     - Clear the obstacles.
 
 - Positioning:
   - Go to the middle of the area.
-  - Stand straight .
+  - Stand straight.
   - Look forward.
 
 - Pre-jump:
